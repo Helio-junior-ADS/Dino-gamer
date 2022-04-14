@@ -1,4 +1,4 @@
-# Genius Gamer
+# Dino Gamer
 ##  "Criado como projeto do bootcamp da Órbi Web Games Developer, feito com Ferramentas: HTML5, CSS3 e JS."
 ### [Link do jogo](https://dino-mcfly.netlify.app/)
 ### [Certificado](https://hermes.digitalinnovation.one/certificates/C59C1C2A.pdf)
